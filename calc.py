@@ -1,4 +1,3 @@
-from string import digits
 import tkinter as tk
 
 # Colors
