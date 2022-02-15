@@ -1,2 +1,5 @@
 # Calculator
-A Basic Calculator App in Python 🐍
+
+> Example
+
+![Sample Image](sample.png)
